@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RaghavKumar/static/css/main.e2771a40.css",
+    "main.js": "/RaghavKumar/static/js/main.39472684.js",
+    "static/js/787.cda612ba.chunk.js": "/RaghavKumar/static/js/787.cda612ba.chunk.js",
+    "static/media/ProfilePicture.svg": "/RaghavKumar/static/media/ProfilePicture.15a7173582d740744cb6e22f1fb1ead9.svg",
+    "index.html": "/RaghavKumar/index.html",
+    "main.e2771a40.css.map": "/RaghavKumar/static/css/main.e2771a40.css.map",
+    "main.39472684.js.map": "/RaghavKumar/static/js/main.39472684.js.map",
+    "787.cda612ba.chunk.js.map": "/RaghavKumar/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2771a40.css",
+    "static/js/main.39472684.js"
+  ]
+}
