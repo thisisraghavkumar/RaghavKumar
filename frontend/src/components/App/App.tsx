@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ProfilePhoto from '../../assets/images/ProfilePicture.svg';
 import SocialBar from '../Social/SocialBar';
